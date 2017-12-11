@@ -1,12 +1,12 @@
 <html>
-<title>KUBERNETES | CONTAINERS</title>
+<title>RED HAT OPENSHIFT | CONTAINERS</title>
 <body>
-<h1> DEMO KUBERNETES - CONTAINER ORCHESTRATION | QLS </h1>
+<h1> DEMO OPENSHIFT - CONTAINER ORCHESTRATION | QLS </h1>
 <br>
 <h2> APP UPDATED | NEW VERSION </h2>
-<img src="kubernetes-logo.png" alt="Kubernetes and Docker" width="300" height="250">
+<img src="openshift.png" alt="Kubernetes and Docker" width="300" height="250">
 <br>
-<img src="kubernetes-logo.png" alt="Kubernetes and Docker" width="300" height="250">
+<img src="openshift.png" alt="Kubernetes and Docker" width="300" height="250">
 <h2><?php
 $output = shell_exec('echo $(hostname)');
 echo "<pre>$output</pre>";
