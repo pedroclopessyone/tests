@@ -1,0 +1,18 @@
+{
+  "apiVersion": "v1",
+  "kind": "PersistentVolume",
+  "metadata": {
+    "name": "pv-demo-qls-small-3"
+  },
+  "spec": {
+    "capacity": {
+        "storage": "15Gi"
+    },
+    "accessModes": [ "ReadWriteOnce" ],
+    "nfs": {
+        "path": "/var/lib/exports/persistent-storage-openshift-3",
+        "server": "192.168.122.51"
+    },
+    "persistentVolumeReclaimPolicy": "Recycle"
+  }
+}
