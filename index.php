@@ -3,7 +3,7 @@
 <body>
 <h1> DEMO OPENSHIFT - CONTAINER ORCHESTRATION | QLS </h1>
 <br>
-<h2> APP DUMMY FOR QLS DEMO </h2>
+<h2> DUMMY APP FOR QLS DEMO </h2>
 <img src="redhat.png" alt="Kubernetes and Docker" width="500" height="250">
 <br>
 <img src="openshift.png" alt="Kubernetes and Docker" width="300" height="250">
