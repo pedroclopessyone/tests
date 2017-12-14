@@ -1,7 +1,7 @@
 <html>
 <title>RED HAT OPENSHIFT | CONTAINERS</title>
 <body>
-<h1> DEMO OPENSHIFT - CONTAINER ORCHESTRATION | QLS </h1>
+<h1> RHOCP | DEMO </h1>
 <br>
 <h2> DUMMY APP FOR QLS DEMO </h2>
 <img src="redhat.png" alt="Kubernetes and Docker" width="500" height="250">
@@ -22,6 +22,6 @@ echo '<i style="color:red;font-size:30px;font-family:calibri ;">
       Date | </i> '. date("d/m/Y") . "<br>"; 
 echo "=============================";
 ?></h2>
-<h2>Pedro Cravo Lopes | Syone's IT Consultant</h2>
+<h2>Pedro Cravo Lopes | Syone</h2>
 </body>
 </html>
