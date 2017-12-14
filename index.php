@@ -4,7 +4,7 @@
 <h1> RHOCP | DEMO </h1>
 <br>
 <h2> DUMMY APP FOR DEMO PURPOSE </h2>
-<img src="redhat.png" alt="Kubernetes and Docker" width="500" height="250">
+<img src="redhat.png" alt="Kubernetes and Docker" width="500" height="300">
 <br>
 <img src="openshift.png" alt="Kubernetes and Docker" width="300" height="250">
 <h2><?php
