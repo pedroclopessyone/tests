@@ -2,7 +2,7 @@
   "apiVersion": "v1",
   "kind": "PersistentVolume",
   "metadata": {
-    "name": "pv-demo-qls-small-3"
+    "name": "pv-lopes-wordpress-demo-2"
   },
   "spec": {
     "capacity": {
@@ -10,7 +10,7 @@
     },
     "accessModes": [ "ReadWriteOnce" ],
     "nfs": {
-        "path": "/var/lib/exports/persistent-storage-openshift-3",
+        "path": "/var/lib/exports/persistent-storage-openshift-2",
         "server": "192.168.122.51"
     },
     "persistentVolumeReclaimPolicy": "Recycle"
