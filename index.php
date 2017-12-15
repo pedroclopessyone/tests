@@ -1,5 +1,8 @@
 <html>
+<head>
 <title>RED HAT OPENSHIFT | CONTAINERS</title>
+<link rel="icon" href="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/RedHat.svg/1280px-RedHat.svg.png">
+</head>
 <body>
 <h1> RHOCP | DEMO </h1>
 <br>
