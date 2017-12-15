@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>RED HAT OPENSHIFT | CONTAINERS</title>
+<title>Openshift</title>
 <link rel="icon" href="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/RedHat.svg/1280px-RedHat.svg.png">
 </head>
 <body>
