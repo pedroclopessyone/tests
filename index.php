@@ -1,9 +1,12 @@
 <html>
+
 <head>
+
 <title>Openshift</title>
-#<link rel="icon" href="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/RedHat.svg/1280px-RedHat.svg.png">
 <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1200px-OpenShift-LogoType.svg.png">
+
 </head>
+
 <body>
 <h1> RHOCP | DEMO </h1>
 <br>
@@ -28,4 +31,5 @@ echo "=============================";
 ?></h2>
 <h2>Pedro Cravo Lopes | Syone</h2>
 </body>
+
 </html>
