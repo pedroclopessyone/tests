@@ -2,7 +2,7 @@
 
     // Creating a database connection
 
-    $connection = mysqli_connect("192.168.42.1", "ocpdemodbuser", "ocpdemodbpass", "ocpdemodb");
+    $connection = mysqli_connect("192.168.42.1", "ocpdemodbuser", "", "ocpdemodb");
     if (!$connection) {
         die("Database connection failed: " . mysqli_connect_error());
     }
