@@ -1,4 +1,18 @@
- <?php
+<html>
+
+<head>
+
+	<title>Openshift Demo</title>
+
+	<link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/    OpenShift-LogoType.svg/1200px-OpenShift-LogoType.svg.png">
+
+</head>
+
+<body>
+<img src="syone-logo.png" alt="Openshift Demo" width="400" height="250">
+<br>
+
+<?php
 $servername = "192.168.42.1";
 $username = "ocpdemodbuser";
 $password = "ocpdemodbpass";
@@ -25,4 +39,5 @@ if (mysqli_num_rows($result) > 0) {
 
 mysqli_close($conn);
 ?> 
-
+</body>
+</html>
