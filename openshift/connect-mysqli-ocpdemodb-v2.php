@@ -17,7 +17,7 @@ $result = mysqli_query($conn, $sql);
 if (mysqli_num_rows($result) > 0) {
     // output data of each row
     while($row = mysqli_fetch_assoc($result)) {
-        echo '<i style="color:red;font-size:30px;font-family:calibri ;"> ID: </i> '. $row["id"]. '<i style="color:red;font-size:30px;font-family:calibri ;"> MODEL: </i> '. $row["model"]. " | " . $row["year"]. '<i style="color:red;font-size:30px;font-family:calibri ;"> | Import Date: </i> '. $row["submission_date"]. "<br>";
+        echo '<i style="color:red;font-size:20px;font-family:calibri ;"> ID: </i> '. $row["id"]. '<i style="color:red;font-size:20px;font-family:calibri ;"> MODEL: </i> '. $row["model"]. " | " . $row["year"]. '<i style="color:red;font-size:20px;font-family:calibri ;"> | Import Date: </i> '. $row["submission_date"]. "<br>";
     }
 } else {
     echo "0 results";
