@@ -1,5 +1,7 @@
 <?php
 
+    // este script apenas testa a ligação á BASE DE DADOS e caso ocorra um erro de ligação, surge mensagem de erro. Em caso de sucesso, aparece ecrã branco.
+
     // Creating a database connection
 
     $connection = mysqli_connect("192.168.42.1", "ocpdemodbuser", "ocpdemodbpass", "ocpdemodb");

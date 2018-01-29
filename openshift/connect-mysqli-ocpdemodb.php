@@ -11,13 +11,13 @@ if (!$conn) {
     die("Connection failed: " . mysqli_connect_error());
 }
 
-$sql = "SELECT id, model,year FROM cars";
+$sql = "SELECT id, model,year,submission_date FROM cars";
 $result = mysqli_query($conn, $sql);
 
 if (mysqli_num_rows($result) > 0) {
     // output data of each row
     while($row = mysqli_fetch_assoc($result)) {
-        echo "id: " . $row["id"]. " - Model: " . $row["model"]. " " . $row["year"]. "<br>";
+        echo "id: " . $row["id"]. " - Model: " . $row["model"]. " | " . $row["year"]. " | Import Date: " . $row["submission_date"]. "<br>";
     }
 } else {
     echo "0 results";
