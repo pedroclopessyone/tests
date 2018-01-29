@@ -8,7 +8,6 @@
 	    echo "Connected to MYSQL<br>";
     }
 
-
     // Selecting a database 
 
     $db_select = mysqli_select_db($connection, "ocpdemodb");
