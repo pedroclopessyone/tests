@@ -8,7 +8,7 @@
 </head>
 
 <body>
-<h1> RHOCP | DEMO </h1>
+<h1> RHOCP | Syone POC </h1>
 <br>
 <h2> DUMMY APP FOR DEMO PURPOSE </h2>
 <img src="redhat.png" alt="Kubernetes and Docker" width="750" height="250">
