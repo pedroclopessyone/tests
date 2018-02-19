@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: gluster-default-volume 
+spec:
+  capacity:
+    storage: 12Gi 
+  accessModes: 
+    - ReadWriteMany
+  glusterfs: 
+    endpoints: glusterfs-cluster 
+    path: distributed-replicated 
+    readOnly: false
+  persistentVolumeReclaimPolicy: Retain
