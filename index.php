@@ -11,6 +11,7 @@
 <h1> RHOCP 3.9 | Syone </h1>
 <br>
 <h2> DUMMY PAGE FOR DEMO PURPOSE </h2>
+<h3> O CLAUDIO TEM SONO </h3>
 <img src="redhat.png" alt="Kubernetes and Docker" width="750" height="250">
 <br>
 <img src="openshift.png" alt="Kubernetes and Docker" width="300" height="250">
