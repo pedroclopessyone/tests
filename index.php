@@ -29,7 +29,7 @@ echo '<i style="color:red;font-size:30px;font-family:calibri ;">
       Date | </i> '. date("d/m/Y") . "<br>"; 
 echo "=============================";
 ?></h2>
-<h2>Pedro Cravo Lopes | Syone</h2>
+<h2>Pedro Cravo Lopes</h2>
 </body>
 
 </html>
