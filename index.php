@@ -10,7 +10,7 @@
 <body>
 <h1><b>RHOCP 3.10 | Upskill by Syone Containers & DevOps by Syone</b></h1>
 <br>
-<h2> WELCOME EVERYONE! </h2>
+<h2> WELCOME EVERYONE! QUASE NA HORA </h2>
 <img src="redhat.png" alt="Kubernetes and Docker" width="750" height="250">
 <br>
 <img src="openshift.png" alt="Kubernetes and Docker" width="300" height="250">

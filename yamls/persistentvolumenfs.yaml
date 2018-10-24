@@ -2,15 +2,15 @@
   "apiVersion": "v1",
   "kind": "PersistentVolume",
   "metadata": {
-    "name": "pv-wp-1"
+    "name": "pv-demo-1"
   },
   "spec": {
     "capacity": {
-        "storage": "10Gi"
+        "storage": "20Gi"
     },
     "accessModes": [ "ReadWriteOnce" ],
     "nfs": {
-        "path": "/var/lib/exports/wordpress",
+        "path": "/var/lib/exports/upskill-1",
         "server": "192.168.42.1"
     },
     "persistentVolumeReclaimPolicy": "Recycle"
